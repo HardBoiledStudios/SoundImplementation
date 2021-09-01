@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{1aa77c3f-725e-4a70-9621-92476265de05}">
+		<property name="name">
+			<value>Section A Melody</value>
+		</property>
+		<relationship name="folder">
+			<destination>{faeb8cc9-22c9-4077-9324-f9050c9832c9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3eb0b3a3-9d3d-479f-97bf-3de0ab9a1f87}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3eb0b3a3-9d3d-479f-97bf-3de0ab9a1f87}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
