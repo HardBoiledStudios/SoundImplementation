@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{72f11f3d-bb77-4818-9145-7059c0f2e449}">
+		<property name="name">
+			<value>Turnaround</value>
+		</property>
+		<relationship name="folder">
+			<destination>{faeb8cc9-22c9-4077-9324-f9050c9832c9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{519b2c9d-c149-4e21-b6c8-9612b6f1b07a}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{519b2c9d-c149-4e21-b6c8-9612b6f1b07a}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>3</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

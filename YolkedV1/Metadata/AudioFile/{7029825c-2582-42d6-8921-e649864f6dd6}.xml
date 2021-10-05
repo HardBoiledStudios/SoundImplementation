@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{7029825c-2582-42d6-8921-e649864f6dd6}">
+		<property name="assetPath">
+			<value>Kitchen Intro.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>13.913062500000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ec9edbda-beeb-4176-b4f3-1da23b623b2e}</destination>
+		</relationship>
+	</object>
+</objects>
