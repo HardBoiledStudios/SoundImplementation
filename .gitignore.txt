@@ -1,0 +1,4 @@
+*/.[Cc]ache/
+*/.[Rr]estore/
+*/.[Uu]ser/
+*/.[Uu]nsaved/
