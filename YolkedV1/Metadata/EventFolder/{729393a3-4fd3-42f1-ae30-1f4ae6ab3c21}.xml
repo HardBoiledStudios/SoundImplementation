@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="EventFolder" id="{729393a3-4fd3-42f1-ae30-1f4ae6ab3c21}">
+		<property name="name">
+			<value>StrikeCast-Music</value>
+		</property>
+		<relationship name="folder">
+			<destination>{4c3d744d-aa5e-4f5d-9383-f3c61f119f73}</destination>
+		</relationship>
+	</object>
+</objects>
