@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{e1b4aa5f-67a8-4505-b196-7d5803931234}">
 		<property name="name">
-			<value>Attic</value>
+			<value>AtticPreNov16</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
