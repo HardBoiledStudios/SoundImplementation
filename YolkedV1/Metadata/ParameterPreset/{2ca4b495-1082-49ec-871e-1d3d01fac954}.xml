@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{2ca4b495-1082-49ec-871e-1d3d01fac954}">
+		<property name="name">
+			<value>ActionFrequency</value>
+		</property>
+		<relationship name="folder">
+			<destination>{faeb8cc9-22c9-4077-9324-f9050c9832c9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{cde6395c-fd18-4c97-899d-a5342ee8ee09}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{cde6395c-fd18-4c97-899d-a5342ee8ee09}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
