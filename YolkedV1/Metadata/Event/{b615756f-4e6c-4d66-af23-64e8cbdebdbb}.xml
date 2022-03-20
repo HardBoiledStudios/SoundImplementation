@@ -190,7 +190,7 @@
 			<value>-1.5</value>
 		</property>
 		<property name="pitch">
-			<value>-8</value>
+			<value>-5</value>
 		</property>
 		<relationship name="event">
 			<destination>{ef24347b-7dc5-47bc-b1b4-cc604abf4ee9}</destination>
@@ -223,6 +223,9 @@
 		</relationship>
 	</object>
 	<object class="EventSound" id="{63526ec5-c7b0-4401-b20a-27798c6599b2}">
+		<property name="pitch">
+			<value>8.5</value>
+		</property>
 		<relationship name="event">
 			<destination>{f5518581-20ce-4f0b-a733-3c9d2c527f57}</destination>
 		</relationship>

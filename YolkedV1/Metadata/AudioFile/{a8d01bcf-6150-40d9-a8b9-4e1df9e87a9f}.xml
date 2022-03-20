@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{a8d01bcf-6150-40d9-a8b9-4e1df9e87a9f}">
+		<property name="assetPath">
+			<value>BubblesScienceLab TE019401.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>13.50530612244898</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ec9edbda-beeb-4176-b4f3-1da23b623b2e}</destination>
+		</relationship>
+	</object>
+</objects>
