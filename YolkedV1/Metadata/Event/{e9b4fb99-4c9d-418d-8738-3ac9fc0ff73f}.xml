@@ -60,7 +60,7 @@
 			<destination>{91b63d59-244e-4a54-94cc-e9781b3d79f9}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{856d4dc2-cc1d-4088-b39f-eae06c355d0e}</destination>
+			<destination>{6614e569-08f2-47ec-99be-5c39582b7c25}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{6c0e9f92-63ad-43e1-acc9-70f38a189a6f}" />
@@ -207,10 +207,10 @@
 	</object>
 	<object class="TransitionRegion" id="{6893b545-1be5-4950-8579-f97f3e1d69fb}">
 		<property name="position">
-			<value>1.5</value>
+			<value>0</value>
 		</property>
 		<property name="length">
-			<value>16</value>
+			<value>17.499999999999996</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{a748c740-fc66-4951-8339-74a16f6c938a}</destination>
