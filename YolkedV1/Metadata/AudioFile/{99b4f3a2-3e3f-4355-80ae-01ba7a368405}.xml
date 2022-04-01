@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{99b4f3a2-3e3f-4355-80ae-01ba7a368405}">
+		<property name="assetPath">
+			<value>Tires-Constant-Gravel-Stead_B01-08069.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>67.1869387755102</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ec9edbda-beeb-4176-b4f3-1da23b623b2e}</destination>
+		</relationship>
+	</object>
+</objects>
