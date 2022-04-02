@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{afbb3cfc-047f-4faf-b773-8c433f3dedd6}">
+		<property name="assetPath">
+			<value>YLKD_124_GardenFullMusic.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>201.29033333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ec9edbda-beeb-4176-b4f3-1da23b623b2e}</destination>
+		</relationship>
+	</object>
+</objects>
