@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{6e67000b-6756-43d5-a614-969f5c2a7d20}">
+		<property name="assetPath">
+			<value>Interview.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>92.529937500000003</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{ec9edbda-beeb-4176-b4f3-1da23b623b2e}</destination>
+		</relationship>
+	</object>
+</objects>
