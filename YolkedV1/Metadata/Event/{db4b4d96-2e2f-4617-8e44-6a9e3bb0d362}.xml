@@ -444,13 +444,13 @@
 			<value>3480.02588</value>
 		</property>
 		<property name="frequencyB">
-			<value>255.746063</value>
+			<value>261.100159</value>
 		</property>
 		<property name="qualityA">
 			<value>0.486691207</value>
 		</property>
 		<property name="qualityB">
-			<value>4.56771374</value>
+			<value>2.07150626</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{1adcd63d-063f-4ff2-97ab-d5d78e34de54}" />
