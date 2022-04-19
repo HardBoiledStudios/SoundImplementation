@@ -97,6 +97,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{14e612a2-4c89-4c46-bc4f-288ae729cba6}">
+		<property name="volume">
+			<value>10</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -121,10 +124,19 @@
 	<object class="MixerBusEffectChain" id="{681771bf-c671-404c-a4c1-5db45607666e}">
 		<relationship name="effects">
 			<destination>{0b49f2ea-90ac-422f-ae36-3f210d95396a}</destination>
+			<destination>{82c23690-b214-402d-bf58-786d0fefac60}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6b310046-61a7-4333-9bdf-521e018be2cb}" />
 	<object class="MixerBusFader" id="{fa6d97e2-0300-4193-8b57-a60e8476f39c}" />
 	<object class="SpatialiserEffect" id="{c455e2ec-1d56-4a34-891a-31cba8cd0f3f}" />
 	<object class="MixerBusFader" id="{0b49f2ea-90ac-422f-ae36-3f210d95396a}" />
+	<object class="SFXReverbEffect" id="{82c23690-b214-402d-bf58-786d0fefac60}">
+		<property name="decayTime">
+			<value>290</value>
+		</property>
+		<property name="wetLevel">
+			<value>-21.5</value>
+		</property>
+	</object>
 </objects>
