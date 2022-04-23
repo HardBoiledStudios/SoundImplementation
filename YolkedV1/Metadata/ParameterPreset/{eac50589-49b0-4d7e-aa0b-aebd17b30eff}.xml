@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="ParameterPreset" id="{eac50589-49b0-4d7e-aa0b-aebd17b30eff}">
+		<property name="name">
+			<value>BeeVariation</value>
+		</property>
+		<relationship name="folder">
+			<destination>{faeb8cc9-22c9-4077-9324-f9050c9832c9}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3984687b-b183-4b69-a7f0-0440d41b5a02}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3984687b-b183-4b69-a7f0-0440d41b5a02}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{6ac4dfd3-a41f-4f66-8eb7-a769673c2fe3}</destination>
+		</relationship>
+	</object>
+	<object class="LFOModulator" id="{6ac4dfd3-a41f-4f66-8eb7-a769673c2fe3}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="rate">
+			<value>0.174999997</value>
+		</property>
+		<property name="depth">
+			<value>100</value>
+		</property>
+	</object>
+</objects>
