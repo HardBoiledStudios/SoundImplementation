@@ -15,21 +15,29 @@
 {af59537f-ac08-4a13-9a5f-03a153b5f0f1} event:/Ambient/Burning
 {81c27982-d8a7-4125-9be2-579240220f2f} event:/Ambient/Cooking
 {4ed7efab-4cf7-4a2f-af03-1559c96bac5f} event:/Ambient/EggWindWhistle
+{bbe4b4c3-6400-4f06-9886-265e8fc91cc7} event:/Ambient/Garden/CemeteryAmbience
+{155ef4d7-a9a6-445f-a2a2-cdf5f5d9e739} event:/Ambient/Garden/GardenAmbience
+{664069ac-03f8-4d5a-879a-cc27c1dac874} event:/Ambient/Garden/PondAmbience
+{2fc99398-28ea-4436-b719-02ee5541176d} event:/Ambient/Garden/ShedAmbience
+{a3a89bc4-7ad1-4b94-90bc-9c8457d5f255} event:/Ambient/Garden/TreeAmbience
 {23a7b5b5-00d8-4551-ab44-2f18306129ca} event:/Ambient/LabSounds
 {71bda2f0-9b40-4db0-b120-376e0e5eb709} event:/Ambient/LaserBurn
 {50cee6a8-24d2-4189-9c57-c3737cb5ba0d} event:/Ambient/RobotArmMove
 {a50e6f89-2178-4ab6-8de7-69b305477f3e} event:/Ambient/StaticElectric
 {3ad5f597-23ff-42d9-b7c9-5761a905d6cb} event:/Ambient/wind2
+{b83a67c6-8191-4381-81dc-f006d749571e} event:/IntroCutscene
 {b014d4a2-e9ad-43dd-b862-f3aa548338d5} event:/Music/StrikeCast-Music/Attic
 {94c4fb40-13d7-4c6c-a00c-c0554a753caa} event:/Music/StrikeCast-Music/Garden
 {a21fb9da-d280-40aa-a521-6273034baf9f} event:/Music/StrikeCast-Music/Kitchen
 {00bf544f-0741-43c4-95d6-f922b15492bb} event:/Music/StrikeCast-Music/MenuTheme
+{c53e2488-0f84-4230-bd2c-be47bcb9c61d} event:/Music/StrikeCast-Music/Tree
 {af0acf52-b7de-4d8a-aec4-65a0fca9eb4d} event:/SFX/Checkpoint
 {ef24347b-7dc5-47bc-b1b4-cc604abf4ee9} event:/SFX/Egg/BackgroundEggs/Scream1
 {588b3775-926c-4102-9a4d-fbf8e276cf60} event:/SFX/Egg/BackgroundEggs/Scream2
 {8533457c-258e-4b88-a9ee-086259181eaa} event:/SFX/Egg/BackgroundEggs/Scream3
 {064ce99a-60b3-4490-b087-38dd924fc333} event:/SFX/Egg/FallingEgg/FallingEggDeath
 {0d32db50-502d-4534-9214-87b6f444c45d} event:/SFX/Egg/FallingEgg/FallingEggScream
+{f0f94ab2-0b28-4498-b066-ef719f81b89c} event:/SFX/Egg/FallingEgg/FallingEggScream 2
 {0a769649-6c02-40ef-90bc-65604f580327} event:/SFX/Egg/Hurt/EggFastHit
 {df46e0d6-0d11-4e9c-af8b-0ee0a4c6de65} event:/SFX/Egg/Hurt/HeavyCrack
 {044c19c5-dff7-45bb-b3ae-d4012582a240} event:/SFX/Egg/Hurt/Hit
@@ -71,6 +79,7 @@
 {6a6ba02c-5724-4022-9792-d5619eacd346} event:/SFX/Surround/BalloonBunsenBurnerRunningOut
 {22e7a62c-c3de-45e7-b6df-8645155bd44f} event:/SFX/Surround/BeeAttack
 {131a441e-ae47-4fb7-9133-43f279ea9588} event:/SFX/Surround/BeeBuzz
+{12bc1038-6f53-40e3-9963-8ba468fc22c9} event:/SFX/Surround/Bell
 {eeda6161-427e-4ca0-9f83-057325955055} event:/SFX/Surround/BicycleFast
 {271ea7b8-2253-496e-8294-84c3e1e2427d} event:/SFX/Surround/BicycleSlow
 {36f9e250-2c28-47c5-97ba-8151913e801b} event:/SFX/Surround/Blinds
@@ -83,9 +92,13 @@
 {94272d56-6e0d-4034-8ec2-f69d5593a12a} event:/SFX/Surround/Button/ButtonPressed
 {d337d51b-c9c7-4947-b6a3-313a0fb4c617} event:/SFX/Surround/Button/ButtonReleased
 {d325dd0d-503c-498a-8376-5a9251414e1b} event:/SFX/Surround/CageSwoosh
+{a5f3c6e2-b8f5-4821-a796-fee744fe86bb} event:/SFX/Surround/CemeteryStone
+{2f25f836-71a2-429a-8dc8-d08c11830878} event:/SFX/Surround/CemeteryStone 2
 {920bf1ac-738a-4b1d-af77-dacf6b7a1b31} event:/SFX/Surround/ChalkboardFall
 {8635295f-f6fe-4208-ae52-04fc71097ea7} event:/SFX/Surround/CheckpointGlow
+{d3e85893-a5c5-451c-9575-926b46e5755b} event:/SFX/Surround/Clap
 {e67563d7-dbf8-47e8-aac4-7552affd3f88} event:/SFX/Surround/CollectibleGlitter
+{ef87a5c1-2029-4f78-b0d2-759917f38c33} event:/SFX/Surround/CollectibleMenuSwoosh
 {63cc9573-558c-4a4d-acaa-d2b311ab1d83} event:/SFX/Surround/DrawerOpenClose
 {8853a2bc-b296-45db-aac8-d97e8893cf51} event:/SFX/Surround/EggDeath
 {7d994f78-49e5-4251-ac15-66065b4b95a0} event:/SFX/Surround/FanBlade
@@ -97,7 +110,9 @@
 {789cbe60-0470-418b-8eda-9bd867cdb2e8} event:/SFX/Surround/GlassBreak/Glass Break 2
 {c12afa6c-3bfd-43c2-9c9f-a5bd4de41b5d} event:/SFX/Surround/GlassBreak/Glass Break 3
 {db4b4d96-2e2f-4617-8e44-6a9e3bb0d362} event:/SFX/Surround/GuyVoiceRecording
+{66f1ec75-e2bd-4fa4-bbb0-d67eef1f49f3} event:/SFX/Surround/HandGrab
 {061043d7-94c5-40e5-b29b-506321c8c87f} event:/SFX/Surround/HandImpact
+{72a8f7b3-6cd8-4d96-8cb1-286a71ed306f} event:/SFX/Surround/HitMetal
 {972167f0-bc3c-4538-afa6-554daff68021} event:/SFX/Surround/Interview
 {222183b9-19f4-4376-8ccf-6fcfcbaf0456} event:/SFX/Surround/JuicyDeathSurround
 {231d6987-90ff-4f58-af0e-21ef3f9f7350} event:/SFX/Surround/KitchenItems
@@ -105,7 +120,9 @@
 {728351e6-5cb2-4c02-a93f-440b251147fe} event:/SFX/Surround/LampHit
 {273c0f39-df98-4590-99c0-88b1ab206b4c} event:/SFX/Surround/LampSqueak
 {2d0b0715-9ad5-409b-bd83-e2cd589c802a} event:/SFX/Surround/LilyPadStretch
+{549b2f4d-6b09-4428-ac65-65e54e7e14f8} event:/SFX/Surround/MachineOnOff
 {d0dcf2b2-7b11-4e5c-93a4-f2fd9f14edf3} event:/SFX/Surround/Microwave
+{14a51075-32dd-4906-842e-3c8b81546f22} event:/SFX/Surround/Poke
 {a8658793-5689-4fb1-a7ac-5e5eb74d5222} event:/SFX/Surround/Pulley
 {1a0d4e31-5ad0-454f-addf-b77e72b3b627} event:/SFX/Surround/RollingPinRoll
 {49db34e8-e790-46a5-b6ca-5476cb3b3769} event:/SFX/Surround/RunningFan
@@ -123,6 +140,8 @@
 {b2495c7a-a0b9-4ab9-b23f-93191398c880} event:/SFX/Surround/Trolley/TrolleyRolling
 {6139301b-3757-4780-9826-be36e782de64} event:/SFX/Surround/Trolley/TrolleySuddenStop
 {8248f8e3-e5b9-4c15-82c2-ee3d71f87114} event:/SFX/Surround/UNUSED_WoodenDrawerShake
+{fcf382bf-f2d1-4742-914c-8368bad4d4cc} event:/SFX/Surround/Vacuum
+{c987c084-4d4d-4bce-a367-d024add2c2ff} event:/SFX/Surround/VacuumWind
 {cfe51278-6337-4780-96c6-d2ab01c0a758} event:/SFX/Surround/WaterSplash
 {19376631-911e-4bae-bac4-b4d813fde581} event:/SFX/Surround/WoodBreak
 {818c5bdd-86bf-4043-80d0-399fe91d2444} event:/SFX/Surround/dartHit
