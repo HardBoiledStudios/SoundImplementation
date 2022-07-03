@@ -97,7 +97,7 @@
 			<value>12.5</value>
 		</property>
 		<property name="pitch">
-			<value>-0.600000024</value>
+			<value>5</value>
 		</property>
 		<relationship name="modulators">
 			<destination>{86358126-e594-453c-8582-4784c29afedf}</destination>
