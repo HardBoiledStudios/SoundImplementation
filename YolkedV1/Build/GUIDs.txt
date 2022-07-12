@@ -24,6 +24,11 @@
 {71bda2f0-9b40-4db0-b120-376e0e5eb709} event:/Ambient/LaserBurn
 {50cee6a8-24d2-4189-9c57-c3737cb5ba0d} event:/Ambient/RobotArmMove
 {a50e6f89-2178-4ab6-8de7-69b305477f3e} event:/Ambient/StaticElectric
+{d5684335-3b0d-4cc8-a50c-7aa6ca0bd896} event:/Ambient/Tree/TreeLightning
+{40947cd4-06d6-4b79-a0c9-0faad71197c0} event:/Ambient/Tree/TreeLightning1
+{4fcfc6e5-f686-46e9-b0ad-d29345ea68e2} event:/Ambient/Tree/TreeLightning2
+{ca44c713-67d5-4ac9-982b-8e78996ed26d} event:/Ambient/Tree/TreeLightning3
+{87aed907-9d97-4e42-99e2-78ab5b559f11} event:/Ambient/TreeWind
 {3ad5f597-23ff-42d9-b7c9-5761a905d6cb} event:/Ambient/wind2
 {b83a67c6-8191-4381-81dc-f006d749571e} event:/IntroCutscene
 {b014d4a2-e9ad-43dd-b862-f3aa548338d5} event:/Music/StrikeCast-Music/Attic
@@ -95,12 +100,15 @@
 {a5f3c6e2-b8f5-4821-a796-fee744fe86bb} event:/SFX/Surround/CemeteryStone
 {2f25f836-71a2-429a-8dc8-d08c11830878} event:/SFX/Surround/CemeteryStone 2
 {920bf1ac-738a-4b1d-af77-dacf6b7a1b31} event:/SFX/Surround/ChalkboardFall
+{b305ee63-ad6f-4e63-88c2-3f80a9fff452} event:/SFX/Surround/ChamberComplete
 {8635295f-f6fe-4208-ae52-04fc71097ea7} event:/SFX/Surround/CheckpointGlow
 {d3e85893-a5c5-451c-9575-926b46e5755b} event:/SFX/Surround/Clap
 {e67563d7-dbf8-47e8-aac4-7552affd3f88} event:/SFX/Surround/CollectibleGlitter
 {ef87a5c1-2029-4f78-b0d2-759917f38c33} event:/SFX/Surround/CollectibleMenuSwoosh
 {63cc9573-558c-4a4d-acaa-d2b311ab1d83} event:/SFX/Surround/DrawerOpenClose
 {8853a2bc-b296-45db-aac8-d97e8893cf51} event:/SFX/Surround/EggDeath
+{c5fd515a-fa04-43e9-98d5-0a4f1b61156c} event:/SFX/Surround/EggHeal
+{8a7546de-a401-4205-a3d5-76322c43c0b7} event:/SFX/Surround/EquipCostume
 {7d994f78-49e5-4251-ac15-66065b4b95a0} event:/SFX/Surround/FanBlade
 {f1f05c22-9db9-4946-994f-7d0b6880f684} event:/SFX/Surround/Fish/BackInWater
 {987032c7-5697-4dc1-b254-fa463419fb43} event:/SFX/Surround/Fish/FishAlert
@@ -142,9 +150,12 @@
 {8248f8e3-e5b9-4c15-82c2-ee3d71f87114} event:/SFX/Surround/UNUSED_WoodenDrawerShake
 {fcf382bf-f2d1-4742-914c-8368bad4d4cc} event:/SFX/Surround/Vacuum
 {c987c084-4d4d-4bce-a367-d024add2c2ff} event:/SFX/Surround/VacuumWind
+{d30d61c9-2a26-4712-9635-bcbfc73bbe7d} event:/SFX/Surround/Vine
 {cfe51278-6337-4780-96c6-d2ab01c0a758} event:/SFX/Surround/WaterSplash
+{373b72ce-a1d6-4f2a-925d-162a75cfedd7} event:/SFX/Surround/Waves
 {19376631-911e-4bae-bac4-b4d813fde581} event:/SFX/Surround/WoodBreak
 {818c5bdd-86bf-4043-80d0-399fe91d2444} event:/SFX/Surround/dartHit
+{27ed914f-ce91-4ed0-a281-5cb80556cf4c} event:/SFX/TreeEndWhoosh
 {a43f8370-56b8-4344-93c6-6a9996cba56e} event:/UI/ButtonError
 {7ff12aaf-ba29-4d7b-8705-54cae1d2eeca} event:/UI/Click1
 {4e01a997-b522-435a-b5a6-45dae01cd108} event:/UI/CollectCollectible
