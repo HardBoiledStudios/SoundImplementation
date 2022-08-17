@@ -8,7 +8,7 @@
 			<value>2</value>
 		</property>
 		<relationship name="folder">
-			<destination>{9f42bea1-933e-4a6e-a6c4-314b88fdbf5f}</destination>
+			<destination>{f84d7f02-f0e9-4677-a438-4e0ec58c0194}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{a9add121-e7d4-44a7-8c19-be0a6b2a1bb8}</destination>
@@ -89,9 +89,6 @@
 	</object>
 	<object class="MixerBusPanner" id="{b780953d-ecfd-401c-8a0f-795d3c9945e2}" />
 	<object class="SingleSound" id="{2161d5e1-f558-4e77-a932-0b4b575c3df6}">
-		<property name="start">
-			<value>0.17000000000000001</value>
-		</property>
 		<property name="length">
 			<value>0.71999999999999997</value>
 		</property>
@@ -101,7 +98,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{b24e7497-c5df-460b-9fe2-a737102dadea}">
 		<property name="volume">
-			<value>-0.5</value>
+			<value>-5.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
